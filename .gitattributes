@@ -1,0 +1,8 @@
+*.py eol=lf
+.gitattributes eol=lf
+.gitignore eol=lf
+*.md eol=lf
+LICENSE eol=lf
+*.json eol=lf
+*.txt eol=lf
+!tests/information.json
